@@ -1,0 +1,9 @@
+body{
+    width: 800px;
+    color: blue;
+    font-style: italic;
+}
+p{
+  width: 40px;
+  padding: 5px;
+}
