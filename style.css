@@ -1,9 +1,7 @@
 body{
-    width: 800px;
-    color: blue;
-    font-style: italic;
+    padding: 250px;
+    text-align: center;
 }
 p{
-  width: 40px;
-  padding: 5px;
+    font-size: 30px;
 }
